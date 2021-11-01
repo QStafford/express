@@ -1,0 +1,1 @@
+alert("The JS file is connected")
